@@ -13,7 +13,7 @@ title: 不同浏览器的 hack
  
 /* IE7, FF, Saf, Opera  */
 html>body #tres { color: red }
- 
+
 /* IE8, FF, Saf, Opera (Everything but IE 6,7) */
 html>/**/body #cuatro { color: red }
  
